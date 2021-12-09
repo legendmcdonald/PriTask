@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Daily Tasks",
+    "tasks": [
+      {
+        "title": "Submit Assignment",
+        "status": "Deadline is at 16:00",
+        "deadLine": "2021-06-03",
+        "priority": 10
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+
+.root {
+	-fx-font-size: 2000;
+	-fx-background-color: #E0F4F4;
+	-fx-padding: 10px;
+	-fx-spacing: 10px;  
+}
+
+.vbox-style{
+	-fx-spacing: 10px; 
+}
+.button{
+	-fx-background-color: #70ee9a;
+}
